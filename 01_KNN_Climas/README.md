@@ -10,3 +10,4 @@ Clasificación supervisada (ML clásico)
 - Visualización de fronteras de decisión y curvas de precisión.
 - **Stack Tecnológico:** Python, NumPy, Pandas, Matplotlib, scikit-learn.
 
+![Portada del Proyecto](../public/assets/IA-ML-01.png)
