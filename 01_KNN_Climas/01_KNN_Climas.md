@@ -9,4 +9,3 @@ Clasificación supervisada (ML clásico)
 - Evaluación de modelos de clasificación usando métricas como Accuracy.
 - Visualización de fronteras de decisión y curvas de precisión.
 - **Stack Tecnológico:** Python, NumPy, Pandas, Matplotlib, scikit-learn.
-
