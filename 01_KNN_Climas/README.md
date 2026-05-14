@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 01: Weather Classifier with KNN
 
 *Read this in: [Español](README.es.md)*
@@ -26,3 +27,21 @@ The project covers the full supervised classification pipeline: exploratory data
 
 ---
 *Developed as part of the Causal Inference & ML Roadmap (May 2026).*
+=======
+# 01: Clasificador de Clima con KNN
+
+## Área de Conocimiento
+Clasificación supervisada (ML clásico)
+
+## Skills Adquiribles
+- Implementación manual de K-Nearest Neighbors (KNN) desde cero.
+- Preprocesamiento y análisis exploratorio de datos estructurados (CSV).
+- Evaluación de modelos de clasificación usando métricas como Accuracy.
+- Visualización de fronteras de decisión y curvas de precisión.
+- **Stack Tecnológico:** Python, NumPy, Pandas, Matplotlib, scikit-learn.
+<<<<<<<< HEAD:01_KNN_Climas/01_KNN_Climas.md
+========
+
+![Portada del Proyecto](../public/assets/IA-ML-01.png)
+>>>>>>>> 26afb5c215eb733930f1e89e56cd349b9d4d38aa:01_KNN_Climas/README.md
+>>>>>>> 26afb5c215eb733930f1e89e56cd349b9d4d38aa
